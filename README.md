@@ -1,4 +1,4 @@
-# Setting Up a VKAX Masternode (Complete and Final Version)
+# Setting Up a VKAX Masternode
 
 This guide provides a comprehensive, step-by-step process to set up a VKAX masternode using a VPS. It includes all necessary commands and explanations to help even first-time users succeed. 
 
